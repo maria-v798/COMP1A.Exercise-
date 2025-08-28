@@ -1,1 +1,3 @@
-# COMP1A.Exercise-
+# COMP1A.Exercise
+Author: Maria Ventura Santos
+Purpose: Public GitHub Repository
